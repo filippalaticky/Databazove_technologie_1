@@ -3,7 +3,7 @@ CREATE DATABASE datacraftinglab_db
 
 create Table flourmills_sales(
     sales_id int PRIMARY KEY,
-    sales_date date,
+    sale_date date,
     region varchar(100),
     state_ varchar(100),
     product_category varchar(100),
@@ -22,3 +22,4 @@ create Table flourmills_sales(
     production_date date,
     total_amount decimal(10,2)
 )
+
