@@ -1,0 +1,3 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}\\seminar5\\.venv-win\\Scripts\\python.exe"
+}
